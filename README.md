@@ -51,7 +51,7 @@ npm >= 9.0.0
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/AstroIshu/MUCK.git
+git clone https://github.com/kruhela777/Capstone_Project_Kritika_Ayush_777.git
 cd MUCK
 ```
 
